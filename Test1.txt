@@ -4,4 +4,12 @@ Dobaviam vtori red v main brancha na faila test1.
 =======
 Dobaviam vtori red na lokalnoto kopie
 >>>>>>> develop
+<<<<<<< HEAD
 Majem oshte
+=======
+
+Promiana s git Bash.:)
+vtora  promiana s git bash.
+>>>>>>> newComerNiki
+
+Hi 
