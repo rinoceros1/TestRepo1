@@ -6,3 +6,4 @@ Dobaviam vtori red na lokalnoto kopie
 >>>>>>> develop
 
 Promiana s git Bash.:)
+vtora  promiana s git bash.
