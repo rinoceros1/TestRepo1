@@ -1,2 +1,6 @@
 Chik chirik
+<<<<<<< HEAD
 Dobaviam vtori red v main brancha na faila test1.
+=======
+Dobaviam vtori red na lokalnoto kopie
+>>>>>>> develop
